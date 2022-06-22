@@ -1,8 +1,6 @@
-# Modelado y representación en ROS del Robot PUMA560  
+# Creación de modelos y su representación en ROS
 
-## Archivos Base de SolidWorks Ver. 2020
-
-Listado de archivos en el directorio:
+Listado de archivos en el directorio ***puma560_sw2020***:
 
 - puma560_base.SLDPRT
 - puma560_shoulder.SLDPRT
