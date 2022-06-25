@@ -32,6 +32,10 @@ Estructura de directorios en el repositorio:
     │   ├── puma560_waist.SLDPRT
     │   ├── puma560_wrist_bend.SLDPRT
     │   └── puma560_wrist_roll.SLDPRT
+    ├── mecanum_wheels_robot/
+    │   ├── *.sldprt (96 archivos)
+    │   ├── *.sldasm (118 archivos)
+    │   └── .
     ├── .gitignore
     └── README.md
 ```	
